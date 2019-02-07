@@ -1,6 +1,6 @@
 # Sodoku Solver
 
-Application that solves any valid 9x9 Sudoku puzzle (with backtracking on each step) 
+Application that solves any valid 9x9 Sudoku puzzle (with backtracking) 
 
 Task
 -----------
